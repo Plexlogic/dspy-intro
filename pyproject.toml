@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "dspy-intro"
+version = "0.1.0"
+description = ""
+authors = ["James Schinner <james.schinner@plxs.com.au>"]
+readme = "README.md"
+packages = [{include = "dspy_intro"}]
+
+[tool.poetry.dependencies]
+python = "^3.11"
+dspy-ai = "^2.4.5"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
