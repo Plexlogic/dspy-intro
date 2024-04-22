@@ -13,12 +13,12 @@ If you'd like to become an *engineeer* and start experimenting with AI, you will
 1. Ask Christian for an invite to our Open AI account so you can log in
 1. Log in to Open AI and go to your secret keys at https://platform.openai.com/api-keys
 
-   Once you log into you can also experiment with ChatGPT 4 at https://platform.openai.com/playground/chat (you'll need to select it under **Model**)
+   _Note once you log in you can also experiment with ChatGPT 4 at https://platform.openai.com/playground/chat (you'll need to select it under **Model**)_
 1. Click **Create new secret key**, give it a name, and write it down. It will look something like this:
 
    `sk-proj-ExampleKeyExampleKeyExampleKeyExampleKeyExampleK`.
 
-   **Important**: You secret keys are like passwords, and should never be shared (especially online).
+   ⚠️ _You secret keys are like passwords, and should never be shared (especially online)._
 1. Time for some engineering (this will work on Mac only).
    1. Open the Terminal by opening the Launchpad (pictured), typing "Terminal", and clicking it
       
