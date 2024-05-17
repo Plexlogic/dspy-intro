@@ -22,7 +22,7 @@ First, you will need a "secret key" to use our Open AI account. Secret keys are 
 
    `sk-proj-ExampleKeyExampleKeyExampleKeyExampleKeyExampleK`
 
-Now you have your secret key, you can begin the installation:
+Now you have your secret key, you can begin the installation. Make sure you follow these instructions _exactly_ - computers are extremely unforgiving about typos and other mistakes.
 
 1. Install Git by downloading and running the installer at https://sourceforge.net/projects/git-osx-installer/.
 1. Open Terminal by pressing ⌘ + SPACE, searching for **Terminal**, and clicking it.
@@ -33,8 +33,9 @@ Now you have your secret key, you can begin the installation:
 1. Run the installation script:
    1. `./install.sh`
    1. You will be prompted to enter your password (for security, it will not be displayed as you type).
-   1. You will be prompted to press RETURN/ENTER (there may be a long wait after this).
+   1. You will be prompted to press RETURN/ENTER (there may be a ~10 minute wait after this).
    1. You will be prompted to enter your Open AI secret key, which will be stored in a `.env` file.
+1. Close Terminal (this is **important**).
 
 If you ever need a new Open AI secret key, you can repeat the installation process.
 
@@ -42,8 +43,9 @@ If you ever need a new Open AI secret key, you can repeat the installation proce
 
 Once the project is installed (see above), it can be run with these steps:
 
-1. If you haven't already, open Terminal as described in the installation steps.
-2. Make sure you're in the project with the command `cd ~/dspy-intro`.
+1. Open Terminal as described in the installation steps.
+1. Make sure you're in the project with the command `cd ~/dspy-intro`.
+1. Load the project dependencies with `poetry shell`.
 1. Run the project by entering this command in the Terminal. You can do this multiple times (in Terminal, you can press UP to repeat the previous command).
    
    `python dspy_intro/hello_world.py`
