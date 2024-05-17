@@ -9,6 +9,7 @@ packages = [{include = "dspy_intro"}]
 [tool.poetry.dependencies]
 python = "^3.11"
 dspy-ai = "^2.4.5"
+python-dotenv = "^1.0.1"
 
 
 [build-system]

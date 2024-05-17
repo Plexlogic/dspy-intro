@@ -1,9 +1,8 @@
-import os
 import dspy
 from pprint import pprint
+from settings import OPENAI_API_KEY
 
 # We first need to tell dspy which language model we want to use
-OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
 language_model = dspy.OpenAI(model="gpt-4-turbo", api_key=OPENAI_API_KEY)
 dspy.settings.configure(lm=language_model)
 

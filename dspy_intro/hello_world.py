@@ -1,9 +1,10 @@
-# Tell Python what we're using (e.g., DSPy). 
-import os
+# Tell Python what we're using (e.g., DSPy).
 import dspy
 
+# Get our Open AI secret key
+from settings import OPENAI_API_KEY
+
 # Tell DSPy which language model to use,
-OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
 language_model = dspy.OpenAI(
     # in this case ChatGPT 4 Turbo,
     model="gpt-4-turbo",
