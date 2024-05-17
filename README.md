@@ -14,26 +14,27 @@ If you'd like to become an *engineeer* and start experimenting with AI, you will
 
 First, you will need a "secret key" to use our Open AI account. Secret keys are like passwords, and should never be shared.
 
-1. Ask Christian for an invite to our Open AI account so you can log in
-1. Log in to Open AI and go to your secret keys at https://platform.openai.com/api-keys
+1. Ask Christian for an invite to our Open AI account so you can log in.
+1. Log in to Open AI and go to your secret keys at https://platform.openai.com/api-keys.
 
    Note once you log in you can also experiment with ChatGPT 4 at https://platform.openai.com/playground/chat (you'll need to select it under **Model**).
 1. Click **Create new secret key** and give it a name. It will look something like this:
 
-   `sk-proj-ExampleKeyExampleKeyExampleKeyExampleKeyExampleK`.
+   `sk-proj-ExampleKeyExampleKeyExampleKeyExampleKeyExampleK`
 
 Now you have your secret key, you can begin the installation:
 
+1. Install Git by downloading and running the installer at https://sourceforge.net/projects/git-osx-installer/.
 1. Open Terminal by pressing ⌘ + SPACE, searching for **Terminal**, and clicking it.
 1. Download the project and go into it by entering these commands (copy each into the Terminal and press ENTER):
    1. `cd ~/`
    1. `git clone https://github.com/Plexlogic/dspy-intro.git`
    1. `cd ~/dspy-intro`
-1. Run the installation script
+1. Run the installation script:
    1. `./install.sh`
-   1. You will be prompted to enter your password (for security, it will not be displayed as you type)
-   1. You will be prompted to press RETURN/ENTER to continue.
-   1. You will be prompted to enter your Open AI secret key.
+   1. You will be prompted to enter your password (for security, it will not be displayed as you type).
+   1. You will be prompted to press RETURN/ENTER (there may be a long wait after this).
+   1. You will be prompted to enter your Open AI secret key, which will be stored in a `.env` file.
 
 If you ever need a new Open AI secret key, you can repeat the installation process.
 

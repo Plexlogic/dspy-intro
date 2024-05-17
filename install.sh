@@ -19,11 +19,11 @@ asdf plugin add poetry
 asdf install python
 asdf install poetry
 poetry install
+source ~/.zshrc
 
-# Store secret key
+# Store secret key (trimming whitespace)
 echo "Please enter your Open AI secret key:"
 read open_ai_secret_key
-open_ai_secret_key=$(echo "open_ai_secret_key" | sed 's/^[ \t]*//;s/[ \t]*$//') # trim whitespace
-echo "OPENAI_API_KEY=$open_ai_secret_key" >> .env
+open_ai_secret_key=$(echo "open_ai_secret_key" | sed 's/^[ \t]*//;s/[ \t]*$//')
+echo "OPENAI_API_KEY=$open_ai_secret_key" > .env
 unset open_ai_secret_key
-
