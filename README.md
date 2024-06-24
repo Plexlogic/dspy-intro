@@ -24,6 +24,8 @@ First, you will need a "secret key" to use our Open AI account. Secret keys are 
 
 Now you have your secret key, you can begin the installation. Make sure you follow these instructions _exactly_ - computers are extremely unforgiving about typos and other mistakes.
 
+Note these instructions will only work on a Mac.
+
 1. Install Git by downloading and running the installer at https://sourceforge.net/projects/git-osx-installer/.
 1. Open Terminal by pressing ⌘ + SPACE, searching for **Terminal**, and clicking it.
 1. Download the project and go into it by entering these commands (copy each into the Terminal and press ENTER):
@@ -35,7 +37,7 @@ Now you have your secret key, you can begin the installation. Make sure you foll
    1. You will be prompted to enter your password (for security, it will not be displayed as you type).
    1. You will be prompted to press RETURN/ENTER (there may be a ~10 minute wait after this).
    1. You will be prompted to enter your Open AI secret key, which will be stored in a `.env` file.
-1. Close Terminal (this is **important**).
+1. Close Terminal (this is **important** - we need to restart Terminal to make it load everything we've installed).
 
 If you ever need a new Open AI secret key, you can repeat the installation process.
 
@@ -43,13 +45,13 @@ If you ever need a new Open AI secret key, you can repeat the installation proce
 
 Once the project is installed (see above), it can be run with these steps:
 
-1. Open Terminal as described in the installation steps.
+1. Open Terminal by pressing ⌘ + SPACE, searching for **Terminal**, and clicking it.
 1. Make sure you're in the project with the command `cd ~/dspy-intro`.
 1. Load the project dependencies with `poetry shell`.
 1. Run the project by entering this command in the Terminal. You can do this multiple times (in Terminal, you can press UP to repeat the previous command).
    
    `python dspy_intro/hello_world.py`
 
-After running the project, you can experiment by editing **hello_world.py**, which can be found in **dspy-intro** → **dspy_intro** in your home folder (right click Finder and click your name as pictured below). For example, if you replace all the places it says `welcome_greeting` with `compliment` and run the project, it should compliment you instead.
+After running the project, you can experiment by editing **hello_world.py**, which can be found in **dspy-intro** → **dspy_intro** in your home folder (right click Finder and click your name as pictured below). For example, if you replace all the places it says `welcome_greeting` with `compliment` and run the project, it should compliment you instead. Make sure you save your changes before re-running the project.
 
 ![image](https://github.com/Plexlogic/dspy-intro/assets/61395658/48ecddcd-b51f-4a35-8213-5db2f810ab22)

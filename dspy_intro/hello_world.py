@@ -14,17 +14,18 @@ language_model = dspy.OpenAI(
 dspy.settings.configure(lm=language_model)
 
 # Tell DSPy we're going to give it a `name` and want it to predict a `welcome_greeting`.
-predict_module = dspy.Predict("name -> welcome_greeting")
-
-# Ask the user for their name.
-name = input("what is your name?\n")
+predict_module = dspy.ChainOfThought("name -> welcome_greeting")
 
 # Tell DSPy the user's name and make it predict the `welcome_greeting`.
+results = predict_module(
+    # We will ask the user to input their name
+    name=input("what is your name?\n")
+).welcome_greeting
+
 # You can change `name` and `welcome_greeting` to something else, like
 # `date_of_birth` and `horoscope`. Make sure you change it EVERYWHERE in
 # this file, and don't use spaces or other symbols. Programming is very
 # unforgiving, so if there are any typos it won't work.
-welcome_greeting = predict_module(name=name)
 
 # Display the output.
-print(welcome_greeting)
+print(results)
