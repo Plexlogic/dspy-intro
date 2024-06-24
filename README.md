@@ -2,6 +2,8 @@
 
 ## What's this?
 
+![Demo of DSPy generating horoscopes](demo.gif)
+
 This is a project for using [DSPy](https://github.com/stanfordnlp/dspy), a technology that writes prompts for LLMs like ChatGPT so you don't even have to do that. You simply tell it what you're giving it, and what you want it to give back.
 
 This project shows you how to make a program which asks for the user's name and creates a greeting for them ("Hello, Plexus!"). You can easily change it to do something else, like ask the user's date of birth and give them a horoscope. Or ask for information about a prospective client and give you a BANT score if you're on the sales team. Or whatever.
