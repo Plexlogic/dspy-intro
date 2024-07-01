@@ -2,7 +2,7 @@
 import dspy
 
 # Get our Open AI secret key
-from settings import OPENAI_API_KEY
+from utils.settings import OPENAI_API_KEY
 
 # Tell DSPy which language model to use,
 language_model = dspy.OpenAI(

@@ -1,0 +1,41 @@
+Non-Disclosure Agreement (NDA) Negotiations Playbook
+
+Define Confidential Information: Clearly outline what constitutes confidential information, including written, oral, and electronic communications.
+
+Term of Confidentiality: Establish the duration of the confidentiality obligation, typically ranging from 2 to 5 years.
+
+Permitted Disclosures: Specify situations where disclosure is permissible, such as to employees or contractors on a need-to-know basis.
+
+Exclusions from Confidentiality: Identify information not covered by the NDA, such as publicly available information or data already known by the receiving party.
+
+Return or Destruction of Information: Include provisions for the return or destruction of confidential information upon termination of the NDA or request by the disclosing party.
+
+No License Granted: Ensure that the NDA does not grant any license or rights to the confidential information.
+
+Governing Law: Agree on the jurisdiction and governing law that will apply in case of a dispute.
+
+Remedies for Breach: Detail the remedies available in case of a breach, including injunctive relief and monetary damages.
+
+Mutual vs. Unilateral NDA: Decide whether the NDA will be mutual (both parties share confidential information) or unilateral (only one party discloses information).
+
+Definition of Representatives: Clarify who within the organization can access the confidential information, such as employees, contractors, and advisors.
+
+Obligations of Receiving Party: Outline the responsibilities of the receiving party to protect and safeguard the confidential information.
+
+Non-Circumvention Clause: Include a clause preventing the receiving party from using the information to bypass the disclosing party in business transactions.
+
+Amendment and Waiver: State that any changes to the NDA must be made in writing and signed by both parties.
+
+Severability: Ensure that if one part of the NDA is found to be unenforceable, the rest of the agreement remains in effect.
+
+No Obligation to Enter into Further Agreement: Clarify that the NDA does not obligate either party to enter into any further agreements.
+
+Notice Provisions: Specify how notices under the NDA should be communicated, including acceptable methods and contact information.
+
+Dispute Resolution: Agree on a method for resolving disputes, such as arbitration or mediation.
+
+Acknowledgement of Ownership: Affirm that all confidential information remains the property of the disclosing party.
+
+Entire Agreement: State that the NDA constitutes the entire agreement between the parties concerning the confidential information.
+
+Effective Date: Clearly indicate the date the NDA comes into effect.

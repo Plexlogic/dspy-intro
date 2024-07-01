@@ -3,7 +3,7 @@ signatures don't have to be strings we can also implement then with a class
 """
 
 import dspy
-from settings import OPENAI_API_KEY
+from utils.settings import OPENAI_API_KEY
 
 # We first need to tell dspy which language model we want to use
 language_model = dspy.OpenAI(model="gpt-4-turbo", api_key=OPENAI_API_KEY)
