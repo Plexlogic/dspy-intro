@@ -1,0 +1,566 @@
+Dated 01 April 2011
+PRIMA BIOMED LTD
+(ABN 90 009 237 889)
+And
+CELL THERAPIES PTY LTD
+(ABN 15 100 285 916)
+
+
+
+
+
+
+MASTER SERVICES AGREEMENT
+ 
+
+
+THIS MASTER SERVICES AGREEMENT (“Agreement”) is made 01 April 2011
+BETWEEN
+Cell Therapies Pty Ltd (ABN 15 100 285 916) of Ground Floor, 10 St Andrews Place, East Melbourne, Victoria 3002 Australia (“CT”)
+AND
+Prima Biomed Ltd (ABN 90 009 237 889) of 1233 High Street, Armadale, Victoria 3143 Australia (“PRIMA”).
+Each a “Party” and collectively, “Parties”
+RECITALS
+ 
+A.	This agreement replaces all previous agreements and understandings between the Parties.
+ 
+B.	PRIMA is in the process of undertaking a series of clinical trials, developing improved manufacturing processes, developing potency assays, negotiating with multiple regulatory authorities and researching the capabilities and characteristics of its intellectual property related to dendritic cell vaccines.
+ 
+C.	CT is a commercial division of the Peter MacCallum Cancer Centre (“Peter Mac”).
+ 
+D.	CT conducts all commercial activities involving the staff and facilities of Peter Mac’s Centre for Blood Cell Therapies (CBCT).
+ 
+E.	CT has a range of skills and expertise that can be of value to PRIMA.
+ 
+F.	CT agrees to provide services as requested by and directed by PRIMA (“Services”), initially described in Schedule 1, and as may change from time to time as directed by PRIMA’s Authorized Representative, according to the fees and terms described in Schedule 2.
+ 
+G.	From time to time, PRIMA may also request, and CT may accept, to provide additional Services, and such Services, fees, and terms will be documented in an additional Project Contract. Any such Project Contract will be incorporated into this Agreement by reference and made an integral part hereto. Unless specifically stated otherwise in a Project Contact, the general terms and conditions of this Agreement shall govern any future Project Contract.
+ 
+H.	Accordingly, PRIMA wishes to engage CT to provide the Services pursuant to the terms and conditions contained in this Agreement.
+ 
+IT IS THEREFORE AGREED AS FOLLOWS
+ 
+1.	DEFINITIONS, INTERPRETATION
+ 
+1.1	Definitions
+The following definitions apply unless the context requires otherwise:
+“Authorised Representative” means the authorised contact person for a Party for all purposes connected with this Agreement;
+“Commencement Date” means the 1st of April 2011
+“Confidential Information” means any information whether written, oral or otherwise relating to the past, present, future or proposed research or business of a Party or a related body corporate of Party including, without limitation:
+ 
+ 	(a)	all investigations, data, reports, analyses, forms, memoranda, specifications, letters, processes, procedures, research and development information, formulae, conclusions, methodologies, research plans, project descriptions, business plans and projections, profit and loss statements, management reports, arrangements and agreements with third parties, strategic planning details, business and other systems retained by the Party;
+ 
+ 	(b)	any financial information concerning the conduct, development, financing, managing or selling activities of the Party, relating to the Party’s business or operation; and
+ 
+ 	(c)	all information and data relating to the operations, dealings, property, assets, technology, activities and services of a Party, including without limitation Intellectual Property Rights, software, source and object code, trade secrets, confidential know-how, client information and information proprietary to clients, client lists, concepts not reduced to material form, designs, drawings, plans and models
+but does not include information which:
+ 
+ 	(d)	at the time of the disclosure to the receiving Party, was already in the lawful possession of that Party in written form;
+ 
+ 	(e)	is in or comes into the public domain otherwise than by disclosure in breach of this Agreement or any other breach of confidentiality;
+ 
+ 	(f)	is independently developed by the receiving Party; or
+ 
+ 	(g)	is obtained lawfully by the receiving Party from a third Party otherwise than by disclosure in breach of an obligation of confidentiality.
+“CT Improvements” means any improvements, mutations, enhancements, modifications, adaptations, extensions, developments, applications of and all other technical advances made to any CT Intellectual Property during the course of CT’s performance of the Services, all of which excludes PRIMA Intellectual Property and PRIMA Improvements.
+ 
+“CT Intellectual Property” means all the intellectual property owned or made available by CT to be used by CT in the performance of the Services, all of which excludes PRIMA Intellectual Property.
+“Delegate” means a deputy authorised to act on behalf of an Authorised Representative;
+“Facilities” means the facilities, including clean rooms, laboratories, and administrative space, provided by CT to PRIMA as a Service, or in support of Services;
+“Force Majeure” means an event or cause beyond the reasonable control of the Party claiming force majeure including, without limitation:
+ 
+ 	(a)	act of God, lightning, storm, flood, fire, earthquake or explosion, cyclone, tidal wave, landslide, adverse weather conditions;
+ 
+ 	(b)	strike, lockout or other labour difficulty;
+ 
+ 	(c)	act of public enemy, war (declared or undeclared), sabotage, blockade, revolution, riot, insurrection, civil commotion, epidemic;
+ 
+ 	(d)	the effects of any applicable laws, orders, rules or regulations of any government or other competent authority;
+ 
+ 	(e)	breakage or accident or other damage to machinery or equipment;
+ 
+ 	(f)	power interruption or failure, to either or both of mainline power transmission or backup/emergency generator, howsoever caused”
+“Insolvency Event” means, in respect of a party:
+ 
+ 	(g)	the party ceases to carry on its business; or
+ 
+ 	(h)	the party ceases to be able to pay its debts as they become due; or
+ 
+ 	(i)	any step is taken to enter into an arrangement between the party and its creditors; or
+ 
+ 	(j)	any step is taken to appoint a receiver, receiver and manager, a trustee in bankruptcy, a liquidator, a provisional liquidator, an administrator or other like person in respect of any of the party’s assets.
+“Intellectual Property Rights” means and includes all present and future intellectual and industrial property rights conferred by statute, at common law or in equity, including (without limitation):
+ 
+ 	(a)	any patent rights, inventions, patent, copyright, designs, rights in circuit layouts, plant breeder’s rights, trade marks, brand names, domain names, product names, trade secret, or know-how and other results of intellectual effort in the scientific, technological, bio-technological, industrial, literary or artistic and commercial fields, whether or not registered or capable of registration;
+ 
+ 	(b)	any application or right to apply for registration in respect of those rights;
+ 
+ 	(c)	any registration of any of those rights or any registration of any application referred to in Item (b); and
+ 
+ 	(d)	all renewals and extensions of these rights.
+“PRIMA Improvements” means any improvements, mutation, enhancements, modifications, adaptations, extensions, developments, application of and all other technical advances made to any PRIMA Intellectual Property.
+“PRIMA Intellectual Property” means all the intellectual property owned or made available by PRIMA to CT to be used by CT in the performance of the Services, including all Intellectual Property Rights subsisting in the Product.
+“Personal Information” means information about an identifiable individual;
+“Privacy Laws” means the Privacy Act 1993;
+“Procedure” means, in respect of any Product, the manufacturing processes and SOP’s specified by PRIMA for its manufacture or storage;
+“Product” means CVac™ as developed by PRIMA for the treatment of ovarian cancer or any other indication to be specified by PRIMA, the output of the Procedure specified by PRIMA.
+“Repeat” means to do once again what ever sections of the Procedure that are required to achieve a minimum or acceptable yield.
+“Services” means the services set out in Schedule 1, including any other tasks agreed by the Parties in writing;
+“Services Fees” means all charges specified in Schedule 3;
+“Service Results” means the materials, results, PRIMA Improvements and the deliverables which are created, discovered or developed as a result of CT’s performance of the Services but not including CT Improvements;
+“SOP” means standard operating procedure as utilised in the current Good Manufacturing Practice (cGMP) for human blood and tissue.
+“Term” means the terms of this Agreement as set out in Clause 3;
+ 
+1.2	Interpretation
+Headings are for convenience only and do not affect interpretation. The following rules apply unless the context requires otherwise.
+ 
+ 	(a)	The singular includes the plural and conversely.
+ 
+ 	(b)	A gender includes all genders.
+ 
+ 	(c)	If a word or phrase is defined, its other grammatical forms have a corresponding meaning.
+ 
+ 	(d)	A reference to a person, corporation, trust, partnership, unincorporated body or other entity includes any of them.
+ 
+ 	(e)	A reference to a clause, paragraph, Item, Annexure or Schedule, is a reference to a clause, paragraph or Item of or an Annexure to or a Schedule to, this Agreement.
+ 
+ 	(f)	A reference to an agreement or document (including, without limitation, a reference to this Agreement) is to the agreement or document as this Agreement or that other agreement or document.
+ 
+ 	(g)	A reference to a Party to this Agreement or another agreement or document includes the Party’s successors and permitted substitutes or assigns (and, where applicable, the Party’s legal personal representatives).
+ 
+ 	(h)	A reference to legislation or to a provision of legislation includes a modification or re-enactment of it, a legislative provision substituted for it and a regulation or statutory instrument issued under it.
+ 
+ 	(i)	A reference to writing includes a facsimile transmission and any means of reproducing words in a tangible and permanently visible form.
+ 
+ 	(j)	(j) All amounts listed in Schedule 2 are in Australian Dollars.
+ 
+2.	APPOINTMENT OF CT
+PRIMA engages CT to provide the Services for the Term of this Agreement and CT agrees to carry out the Services for the Term in accordance with this Agreement.
+ 
+3.	TERM OF THE AGREEMENT
+This Agreement will commence on the Commencement Date and shall continue in full force and effect for a period of five (5) years from the Commencement Date and thereafter from year to year until either party gives the other party written notice of its intention to terminate the Agreement on the original period of five (5) years or on the expiration of any one such additional yearly periods, such notice to be given at least [ * ] prior to such termination unless extended or terminated in accordance with Clause 14.
+ 
+4.	PERFORMANCE OF THE SERVICES
+ 
+ 	(a)	CT must perform the Services in accordance with this Agreement and:
+ 
+ 	(i)	efficiently, with due care and skill and to the best of its knowledge and expertise;
+ 
+ 	(ii)	in a time and manner as reasonably requested by PRIMA’s Authorized Representative, such that these requests are within the scope of this Agreement;
+ 
+ 	(iii)	according to any agreed Procedures for a Product; and
+ 
+ 	(iv)	in compliance with all applicable laws and regulations.
+ 
+ 	(b)	CT must ensure that the Facilities are cGMP/cGTP compliant in performing all aspects of the Services.
+ 
+ 	(c)	Subject to an annual four (4) week plant shut down for maintenance CT shall use its best endeavours to ensure that there is sufficient resource allocation within the Facilities for the provision of the Services.
+ 
+ 	(d)	CT is to promptly notify PRIMA’s Authorised Representative in the event that the TGA, or any other competent regulatory authority, inspects or intends to inspect CT’s Facilities or any aspect of the Services provided to PRIMA. CT shall endeavour to arrange for PRIMA to have a representative present at any such inspection. In any case, CT shall provide PRIMA’s Authorised Representative with copies of all communications with the TGA or any other competent regulatory authority related to the Services.
+ 
+ 	(e)	When requested by PRIMA, CT shall furnish to PRIMA a comprehensive written report summarizing the data generated to date and the status of Services.
+ 
+ 	(f)	In performing its obligations under this Agreement, CT agrees to use its reasonable endeavours to avoid infringing the Intellectual Property Rights of any third party.
+ 
+ 	(g)	PRIMA acknowledges and agrees that, although CT agrees to apply the same skills and knowledge to the provision of the Services as it applies to the management of its own Therapeutic Goods Administration (“TGA”) licence, the TGA is an independent regulatory body outside the control of CT. To the extent that the TGA mandates regulations or guidelines that CT cannot predict or interpret, it cannot give any warranty or assurance as to its compliance with any such regulations and guidelines. PRIMA further acknowledges that CT is neither qualified nor authorised nor empowered to provide legal advice and no element of its provision of the Services is, or is to be regarded or interpreted as such.
+ 
+ 	(h)	PRIMA acknowledges and agrees that some of the Services constitute a research project and that as such no particular result or outcome can be guaranteed.
+ 
+ 	(i)	CT must not:
+ 
+ 	(i)	incur any liabilities in PRIMA’s name or on its behalf, or pledge its credit without PRIMA’s prior written approval;
+
+ 	(ii)	have or during the Term accept, any obligations to any person that will or may interfere with the CT’s ability to provide the Services in accordance with this Agreement, without the prior written approval of PRIMA.
+ 
+ 	(j)	CT must use its reasonable endeavours to:
+ 
+ 	(i)	make available its personnel and resources to provide the Services;
+ 
+ 	(ii)	ensure that its personnel are aware of and will comply with CT’s obligations in providing the Services in accordance with this Agreement;
+In carrying out the Services CT must use its reasonable endeavours to comply with PRIMA’s Quality Policy as described in Schedule 3.
+ 
+5.	OBLIGATIONS OF PRIMA
+ 
+ 	(a)	Subject to Schedule 2 and Clause 6, and in consideration for the performance of the Services, PRIMA must pay CT the agreed Service Fees according to agreed terms.
+ 
+ 	(b)	PRIMA is required to declare if there are any genetically modified organisms to be used in the processes involved in any Service.
+ 
+ 	(c)	PRIMA is required to declare if there is any material of animal origin and its status to be used in the processes involved in any Service.
+ 
+ 	(d)	PRIMA shall be responsible for the:
+ 
+ 	(i)	procurement of starting material(s) for the Product and their delivery to the CT facilities; and
+ 
+ 	(ii)	delivery of the Product from the CT facilities to the hospital or other site at which the Product is intended for administration to a patient.
+ 
+6.	INVOICING AND PAYMENT
+ 
+ 	(a)	Unless otherwise agreed in writing, PRIMA must, within 30 days of receiving an invoice from CT, pay for all costs and expenses according to Schedule 2 and any future Project Contract.
+ 
+ 	(b)	PRIMA will pay correctly rendered invoices to:
+   CELL THERAPIES PTY LTD   BSB: 123-456   Account number: 123456789
+ 
+ 	(c)	PRIMA may withhold payment of any invoiced amount which is in dispute.
+ 
+7.	APPOINTMENT OF AUTHORISED REPRESENTATIVES & PERIODIC REVIEW
+ 
+ 	(a)	Both PRIMA and CT will appoint one of its staff to be the Authorised Representative of that Party. In the case of PRIMA, the Authorised Representative will be Michelle Lee or such other person as advised by PRIMA to CT in writing from time to time. In the case of CT, the Authorised Representative will be Sandra Sadeep  or such other person as advised by CT to PRIMA in writing from time to time. Each Authorised Representative may appoint a Delegate by notice in writing to the other party.
+ 
+ 	(b)	CT and PRIMA must ensure that their Authorised Representatives (or their Delegates) are available for consultation with the other Party as reasonably required by the other Party and within 72 hours of being requested.
+ 
+ 	(c)	CT and PRIMA must ensure that their Authorised Representatives (or their Delegates) agree to the form and content of external communications that relate to the performance of the Services.
+ 
+ 	(d)	If the Parties’ Authorised Representative decides that the obligations of either Party under the Agreement should be altered, the Parties’ Authorised Representatives will negotiate in good faith appropriate revision of the Services and to the fees payable to CT under Schedules 1 and 2.
+ 
+ 	(e)	If the Parties’ Authorised Representatives agree to amendments under this clause, the Parties must amend this Agreement in accordance with Clause 17.
+ 
+ 	(f)	If the Parties’ Authorised Representatives cannot agree in relation to any changes to be made pursuant to this clause, the dispute must be referred to dispute resolution in accordance with Clause 22
+ 
+8.	CONFIDENTIALITY / INFORMATION
+ 
+ 	(a)	CT must not disclose, and must take reasonable steps to ensure that their Affiliates and CT’s and Peter Mac’s employees, contractors and agents do not disclose, any Confidential Information of PRIMA to any third party, unless the disclosure is required by law. If disclosure is required by law, CT must immediately provide written notice to PRIMA’s Authorised Representative of the requirement for the disclosure of the Confidential Information and use its reasonable endeavours to withhold any such disclosure for at least 72 hours.
+ 
+ 	(b)	CT must:
+ 
+ 	(i)	use Confidential Information of PRIMA only for the purpose of performing the Services in accordance with this Agreement;
+ 
+ 	(ii)	take all reasonable steps to secure and keep secure all Confidential Information of PRIMA in its possession or control;
+ 
+ 	(iii)	not use, modify, reverse engineer or make copies, notes or records of the Confidential Information of PRIMA for any purpose other than for performing the Services in accordance with this Agreement;
+ 
+ 	(iv)	not apply for, register or attempt to register, or authorise or assist any third party to apply for or register, under any statute or otherwise in any country any form of Intellectual Property Rights relating to or incorporating any Confidential Information of PRIMA, without the prior written approval of PRIMA.
+ 
+ 	(c)	CT warrants that all relevant employees of CT and Peter Mac have entered into written confidentiality agreements undertaking confidentiality obligations no less onerous than those of CT under this Agreement. On receipt of a request from PRIMA, CT covenants to provide copies of the confidentiality agreements.
+ 
+ 	(d)	PRIMA must not disclose, and must take reasonable steps to ensure that their Affiliates, and PRIMA’s and their Affiliates’ employees, contractors and agents do not disclose, any Confidential Information of CT to any third party, unless the disclosure is required by law or to comply with the rules of any stock exchange on which the securities of PRIMA or an Affiliate may be listed from time to time. If disclosure is required by law or to comply with the rules of any stock exchange on which the securities of PRIMA or an Affiliate may be listed from time to time, PRIMA must immediately provide written notice to CT’s Authorised Representative of the requirement for the disclosure of the Confidential Information and use its reasonable endeavours to withhold any such disclosure for at least 72 hours
+ 
+ 	(e)	Each Party agrees that any disclosure of another Party’s Confidential Information to any of its employees, consultants, Affiliates, licensees and sub licensees shall be made only if and to the extent necessary to carry out its rights and responsibilities under this Agreement, and shall be limited to the maximum extent possible consistent with such rights and responsibilities and shall only be made to persons who are bound by written confidentiality obligations to maintain the confidentiality thereof and not to use such Confidential Information except as expressly permitted by this Agreement.
+ 
+ 	(f)	Failure to observe the obligations contained in this Clause 8 is a serious breach and may cause irreparable damage to the relevant Party. In addition to any other remedies available to the relevant Party for disclosure of Confidential Information, the proprietor of the Confidential Information may require the permanent removal of the person who disclosed the Confidential Information from any activities associated or connected with this Agreement.
+ 
+ 	(g)	Clause 8 survives the termination of this Agreement.
+ 
+9.	PRIVACY
+Where PRIMA or its agent provides Personal Information to CT, CT must comply with the Privacy Laws and;
+ 
+ 	(a)	to the extent permitted by law, not in any way respond to a request for access to Personal Information except to refer the enquirer to PRIMA and to notify PRIMA of the request; and
+ 
+ 	(b)	CT must:
+ 
+ 	(i)	only use Personal Information for the purpose of this Agreement and not for its own purpose;
+ 
+ 	(ii)	only disclose Personal Information if it is necessary for the purpose of this Agreement or with the prior written consent of the PRIMA; and
+ 
+ 	(iii)	ensure that only authorised personnel have access to Personal Information and that all Personal Information is stored securely and is protected from unauthorised access, use or disclosure; and
+ 
+ 	(iv)	destroy all Personal Information once this Agreement has ended.
+ 
+10.	SERVICE RESULTS
+ 
+ 	(a)	Nothing in this Agreement will cause the transfer of any rights in or grant any rights to another Party, other than those rights conferred pursuant to Clause 10(b) and 10(c).
+ 
+ 	(b)	All Services Results and any Intellectual Property Rights subsisting therein will vest in PRIMA and CT assigns to PRIMA all its current and future, legal and beneficial right, title and interest in and to Service Results and all of its Intellectual Property Rights subsisting therein, with effect on and from the date of creation of Service Results.
+ 
+ 	(c)	All CT Improvements and any Intellectual Property Rights subsisting therein will vest in CT and PRIMA assigns to CT all its current and future, legal and beneficial right, title and interest in and to such Service Results and all of its Intellectual Property Rights, if any, subsisting therein, with effect on and from the date of creation of those Service Results.
+ 
+ 	(d)	Both Parties will execute all documents and do all things reasonably necessary to give effect to clauses 10(b) and 10(c) and to protect all Intellectual Property Rights arising as a result of this Agreement.
+ 
+ 	(e)	CT appoints PRIMA as CT’s attorney to carry out any act or execute any document or instrument to the extent necessary to give effect to the assignment under clause 10(b).
+ 
+ 	(f)	PRIMA appoints CT as PRIMA’s attorney to carry out any act or execute any document or instrument to the extent necessary to give effect to the assignment under clause 10(c).
+ 
+ 	(g)	Both parties agree that they will not and must use reasonable endeavours to ensure that its employees, officers, agents and contractors, do not publish any material or make any media release in relation to or incorporating the Service Results or the parties’ relationship under this Agreement without the prior written approval of the other party (such approval may be withheld at other party’s absolute discretion).
+ 
+ 	(h)	Neither party may use the other’s name, nor any trade mark or logo of the other party nor of a related body corporate of that party without that party’s prior written approval.
+ 
+ 	(i)	Any authorised publication or media release made by CT or PRIMA in accordance with this Agreement must acknowledge the other party’s rights in the Service Results and contributions to the development of the Service Results.
+ 
+ 	(j)	Clause 10 survives the termination of this Agreement.
+ 
+11.	INSURANCE
+ 
+ 	(a)	Each party will effect and maintain adequate insurance to cover its activities under this Agreement and to indemnify itself against any loss or damage or liability which it may suffer or cause or incur. These insurances must include professional indemnity, product liability, third party liability insurance and without limiting the foregoing will include insurance in respect of data loss or corruption.
+ 
+ 	(b)	Each party will, upon the request of the other party, produce evidence of the currency of the above insurance policies.
+ 
+ 	(c)	Each party will comply with the terms of such insurance policies.
+ 
+ 	(d)	Each party’s obligations in respect of insurance survive expiration or earlier termination of this Agreement for a period of 6 months from the date of expiry or early termination.
+ 
+12.	INDEMNITY
+ 
+ 	(a)	PRIMA indemnifies CT, its officers, employees and agents against any claim or proceedings made, threatened or commenced, and any liability, loss, damage or expense (including damage to real, personal or intellectual property, data loss or corruption, personal injury including death and legal costs on a full indemnity basis) under statute or common law which CT incurs or suffers as a direct or indirect result of:
+ 
+ 	(i)	any breach or non-performance by PRIMA of this Agreement, or warranties contained in this Agreement;
+ 
+ 	(ii)	any wrongful, wilful or negligent act or omission of PRIMA or any of its employees, agents or contractors;
+ 
+ 	(iii)	any breach of third party rights including Intellectual Property Rights resulting from CT’s or PRIMA’s or any of their related bodies’ corporate use of PRIMA’s Intellectual Property or Confidential Information or the Service Results.
+This indemnity does not apply to the extent that such loss or damage is caused by the negligence, act or omission of CT or Peter Mac. This indemnity survives the termination of this Agreement indefinitely.
+ 
+ 	(b)	CT indemnifies PRIMA, its officers, employees and agents against any claim or proceedings made, threatened or commenced, and any liability, loss, damage or expense (including damage to real, personal or intellectual property, data loss or corruption, personal injury including death and legal costs on a full indemnity basis) under statute or common law which PRIMA incurs or suffers as a direct or indirect result of:
+ 
+ 	(i)	any breach or non-performance by CT of this Agreement, or warranties contained in this Agreement;
+ 
+ 	(ii)	any wrongful, wilful or negligent act or omission of CT or any of its employees, agents or contractors
+ 
+ 	(iii)	any breach of third party rights including Intellectual Property Rights resulting from CT’s or PRIMA’s or any of their related bodies’ corporate use of CT Intellectual Property or CT Confidential Information.
+This indemnity does not apply to the extent that such loss or damage is caused by the negligence, act or omission of PRIMA. This indemnity survives the termination of this Agreement indefinitely.
+ 
+13.	REPRESENTATIONS AND WARRANTIES
+ 
+ 	(a)	PRIMA and CT each represent and warrant as follows:
+ 
+ 	(i)	Organization. It is a corporation duly organized, validly existing and is in good standing under the laws of its respective jurisdiction, is qualified to do business and is in good standing as a corporation in each jurisdiction in which the performance of its obligations hereunder requires such qualification and has all requisite power and authority, corporate or otherwise, to conduct its business as now being conducted, to own, lease and operate its properties and to execute, deliver and perform this Agreement.
+ 
+ 	(ii)	Authorization. The execution, delivery and performance by it of this Agreement have been duly authorized by all necessary corporate action and do not and will not (a) require any consent or approval of its stockholders or shareholders or (b) violate any provision of any law, rule, regulation, order, writ, judgment, injunction, decree, determination or award presently in effect having applicability to it or any provision of its charter documents or constitution.
+ 
+ 	(iii)	Binding Agreement. This Agreement is a legal, valid and binding obligation of it enforceable against it in accordance with its terms and conditions.
+ 
+ 	(iv)	No Inconsistent Obligation. It is not under any obligation to any person, or entity, contractual or otherwise, that is conflicting or inconsistent in any respect with the terms of this Agreement or that would impede the diligent and complete fulfilment of its obligations.
+ 
+ 	(b)	CT warrants that:
+ 
+ 	(i)	it (and its personnel) has the expertise, resources (including without limitation financial resources), capacity, experience and ability to perform its obligations under this Agreement;
+ 
+ 	(ii)	it has adequate insurance policies and financial resources to sustain any potential liability incurred in relation to this Agreement;
+ 
+ 	(iii)	it holds and will at all relevant times hold all necessary licences and authorities legally required to perform the Services;
+ 
+ 	(iv)	the conduct of the Services will be of high quality and provided in a professional manner, with all due care, skill and attention and CT will use its reasonable endeavours to perform the Services in accordance with industry best practice; and
+ 
+ 	(v)	it will perform its obligations in a timely and efficient manner.
+ 
+ 	(c)	Notwithstanding anything else in this Agreement or otherwise, to the fullest extent permitted by law, none of PRIMA or CT will be liable with respect to any subject matter of this Agreement under any contract, negligence, strict liability or other legal or equitable theory for any indirect, incidental, consequential damages or lost profits.
+ 
+14.	TERMINATION OR EXTENSION
+ 
+ 	(a)	PRIMA may immediately terminate this Agreement by giving written notice to CT if CT:
+ 
+ 	(i)	commits a breach of any of the provisions of this Agreement which is incapable of being remedied to the reasonable satisfaction of PRIMA;
+ 
+ 	(ii)	for any reason whatsoever becomes incapable, in the reasonable opinion of PRIMA from performing its obligations under this Agreement;
+ 
+ 	(iii)	fails to remedy, to the reasonable satisfaction of PRIMA a breach or default of any of the provisions of this Agreement which is, in the opinion of PRIMA capable of being remedied, within 14 days of receiving a notice from PRIMA of that breach or default; or
+ 
+ 	(iv)	is the subject of an Insolvency Event, or
+ 
+ 	(v)	if the TGA refuses to grant regulatory approval for the Product.
+ 
+ 	(b)	Notwithstanding any other provision of this Agreement, PRIMA or CT may terminate this Agreement for any reason by giving 60 days written notice to the other party. If PRIMA terminates this Agreement and, in doing so, delivers to CT a request to such effect CT shall immediately commence an orderly close down of the project activities and be ready to cease performing the Services at the end of the 60 day notice period.
+ 
+ 	(c)	An orderly termination is to include, at PRIMA’s cost, CT transferring the CVac™ manufacturing information to PRIMA’s nominated resource,
+ 
+ 	(d)	PRIMA may request an extension and CT agrees to negotiate in good faith a new Term and revisions of both the Services and the Fees schedules. The Parties agree that such an extension is to be negotiated at least 3 months prior to the expiry of the prevailing Term.
+ 
+ 	(e)	CT may immediately terminate this Agreement by giving written notice to PRIMA if PRIMA
+ 
+ 	(i)	commits a breach of any of the provisions of this Agreement which is incapable of being remedied to the reasonable satisfaction of CT;
+ 
+ 	(ii)	fails to remedy, to the reasonable satisfaction of CT a breach or default of any of the provisions of this Agreement which is, in the opinion of CT, capable of being remedied, within 14 days of receiving a notice from CT of that breach or default; or
+ 
+ 	(iii)	is the subject of an Insolvency Event.
+ 
+ 	(f)	A Party is not liable for any failure or delay in performance of any obligations under this Agreement if all of the following conditions are satisfied:
+ 
+ 	(i)	the failure or delay arose from Force Majeure; and
+ 
+ 	(ii)	the Party took all reasonable precautions against that Force Majeure and did its best to limit its consequences. This does not require the Party to settle a labour dispute if, in the Party’s opinion, that is not in its best interests; and
+ 
+ 	(iii)	the Party gave the other Parties notice of the Force Majeure as soon as practicable after becoming aware of it.
+ 
+ 	(g)	If the Force Majeure and the resulting failure or delay lasts for more than 30 days then the Parties will negotiate in good faith to overcome any difficulties associated with the Force Majeure.
+ 
+ 	(h)	If the Force Majeure and the resulting failure or delay lasts for more than 60 days then any Party may terminate the Agreement.
+ 
+ 	(i)	The Term can be extended if the Parties agree in writing to the terms and conditions to apply to the extension prior to the termination date.
+ 
+ 	(j)	Despite any other provision of this Agreement, Clauses, 8, 9, 10, 12, 13(b), 13(c), 16, 22, 23 and this Clause 14(j) survives the expiry or termination of this Agreement.
+ 
+15.	ETHICS COMMITTEE APPROVAL AND PATIENT CONSENT
+ 
+ 	(a)	CT warrants that it will, if necessary, seek approval to provide the Services from the CBCT Ethics Committee, in accordance with the relevant NH&MRC Guidelines.
+ 
+ 	(b)	PRIMA warrants that it will ensure that all consent required to be obtained by law from patients in order for CT to perform the Services is obtained. PRIMA will ensure that copies of such consents are provided to CT within 7 days of CT requesting a copy.
+ 
+16.	RELATIONSHIP
+The relationship of the Parties is that of independent contractors and nothing in this Agreement constitutes any Party, the employee, partner, agent, fiduciary, representative, trustee or joint venture of the other. No Party is liable for an act or omission of another Party except to the extent set out in this Agreement.
+ 
+17.	VARIATION
+This Agreement can only be varied by the Parties in writing and signed by or on behalf of all Parties.
+ 
+18.	ASSIGNMENT
+CT may not assign any of its rights and obligations under this Agreement without the written consent of PRIMA which consent must not be unreasonably withheld.
+ 
+19.	SUBCONTRACTING
+CT may not subcontract any of its obligations under this Agreement unless agreed in writing by PRIMA.
+ 
+20.	NOTICES TO PRIMA
+ 
+ 	(a)	Any notice required to be given to PRIMA under this Agreement must be in writing and may be served:
+ 
+ 	(i)	by giving the notice personally to a Director of PRIMA or
+
+ 	(ii)	by delivering the notice to PRIMA’s registered office.
+Attn: Managing Director
+Prima BioMed Limited
+Suite 1, 1233 High Street
+Armadale Vic 3143
+ 
+ 	(b)	The notice is served at the time it is given or delivered.
+ 
+ 	(c)	Electronic transmission of Notices by telefax or email may be used; however, written acknowledgement of receipt must be received by the transmitting Party.
+ 
+21.	NOTICES TO CT
+ 
+ 	(a)	Any notice required to be given to CT under this Agreement must be in writing and may be served:
+ 
+ 	(i)	by giving the notice personally to the Managing Director of CT; or
+ 
+ 	(ii)	by delivering the notice to CT’s registered office at
+Ground Floor
+10 St Andrew’s Place
+East Melbourne VIC 3002
+ 
+ 	(b)	The notice is served at the time it is given or delivered.
+ 
+ 	(c)	Electronic transmission of Notices by telefax or email may be used however written acknowledgement of receipt must be received by the transmitting Party.
+ 
+22.	DISPUTE RESOLUTION
+If a dispute arises in relation to this Agreement, without restricting either Party from at any time making any application to the Court, either Party may give the other Parties a notice requiring that an attempt be made to resolve the dispute. The Parties will try to resolve the dispute by the help of Mr Ray Wood and a PRIMA representative nominated by PRIMA. If the dispute is not resolved within [ * ] of the first meeting of Mr Ray Wood and a PRIMA representative, any Party may give the other a notice requiring that an attempt be made to resolve the dispute with the help of a mediator to be appointed jointly by the Parties. If the Parties do not agree on a mediator within [ * ] after such notice is given, the mediator is to be appointed by The Australian Commercial Disputes Centre (“ACDC”). The mediation is to be conducted in accordance with the ACDC’s Rules for the Mediation of Commercial Disputes. Each of the Parties must pay an equal share of the fees and expenses to which the mediator is entitled.
+ 
+23.	GOVERNING LAW AND JURISDICTION
+This document is governed by the laws of Victoria Australia and the Parties submit to the non-exclusive jurisdiction of its courts. The Parties will not object to the exercise of jurisdiction by those courts, either for forum non conveniens or on any other basis.
+ 
+24.	ENTIRE AGREEMENT
+This Agreement contains the entire agreement between the Parties with respect to its subject matter and supersedes all prior agreements and understandings between the Parties in connection with it.
+ 
+25.	NO WAIVER
+No failure to exercise nor any delay in exercising any right, power or remedy by a Party operates as a waiver. A single or partial exercise of any right, power or remedy does not preclude any other or further exercise of that or any other right, power or remedy. A waiver is not valid or binding on the Party granting that waiver unless made in writing.
+ 
+26.	REMEDIES CUMULATIVE
+The rights, powers and remedies provided to the Parties in this Agreement are in addition to, and do not exclude or limit, any right, power or remedy provided by law or equity.
+ 
+27.	COUNTERPARTS
+This Agreement may be executed in counterparts. All counterparts together will be taken to constitute one instrument. If each Party executes separate documents, this Agreement takes effect when the Parties exchange executed documents.
+ 
+28.	SEVERABILITY OF PROVISIONS
+Any provision of this Agreement that is prohibited or unenforceable in any jurisdiction is ineffective as to that jurisdiction to the extent of the prohibition or unenforceability. That does not invalidate the remaining provisions of this Agreement nor affect the viability or enforceability of that provision in any other jurisdiction.
+ 
+29.	GST GENERAL PRINCIPLES
+ 
+ 	(a)	The Parties acknowledge that the Service Fees are exclusive of GST.
+ 
+ 	(b)	If the Australian Tax Office determines GST is applicable then PRIMA will pay any GST assessed to CT.
+ 
+30.	RELEASE OF INFORMATION
+The Parties agree that no information about the Services of this Agreement, including its existence, will be released to the Public without the prior written approval of the Parties which shall not be unreasonably withheld, except as required by law.
+ 
+
+EXECUTED BY THE PARTIES AS AN AGREEMENT
+ 
+				
+Signed for and on behalf of
+PRIMABIOMED LIMITED
+By its duly authorised officer
+ 
+Matthew Lehman
+Chief Operating Officer	  	)
+ 
+)
+)
+)
+)
+)
+)	  	/s/ Matthew Lehman
+ 
+ 
+Date: April 5, 2011
+		
+ 
+Signed for and on behalf of
+CELL THERAPIES Pty Ltd.
+By its duly authorised officer
+ 
+Raymond Wood
+Managing Director	  	)
+)
+)
+ 
+)
+)
+)
+)
+)	  	/s/ Raymond Wood
+ 
+ 
+Date: April 19, 2011
+ 
+
+SCHEDULE 1
+THE SERVICES
+CT agrees to provide to PRIMA the following Facilities, personnel, and other tasks (together “Services”) under this Agreement:
+ 
+ 	•	 	one fully committed and supported cGMP-compliant clean room of a type appropriate for the manufacture of Cvac;
+ 
+ 	•	 	cGMP compliant quality system including production and quality personnel;
+ 
+ 	•	 	two full-time equivalent Senior Scientists dedicated to PRIMA
+ 
+ 	•	 	one full-time equivalent laboratory technician dedicated to PRIMA
+ 
+ 	•	 	one part-time laboratory assistant Senior Scientist
+ 
+ 	•	 	trained and qualified back-up personnel to replace personnel dedicated to PRIMA in the event of employee termination or leave
+ 
+ 	•	 	purchase, handling, and storage (including cryostorage) of any starting materials or final product according to Procedures, as reasonably requested by PRIMA’s Authorized Representative
+All Services are to be provided in accordance with cGMP, all relevant laws, this Agreement, and Procedures agreed to between PRIMA and CT.
+The coordination and scheduling of the use of Facilities and personnel shall be reasonably directed by PRIMA’s Authorized Representative.
+The above listed Services are intended to be utilized by PRIMA to support several projects including, but not limited to:
+CVAC CLINICAL TRIAL
+CT agrees to use reasonable efforts to identify percentages of resources dedicated to each type of project (As well as additional future projects) to assist with PRIMA’s cost tracking. This evaluation shall be provided with CT invoices.
+In the event that PRIMA requests additional Facilities, personnel, or tasks; or if the volume of PRIMA’s projects require additional Facilities, personnel, or tasks; or if PRIMA requires specific or special Services that cannot be accomplished with the assigned Facilities, personnel, or task; the Authorized Representatives of the Parties shall agree to additional Services in writing.
+ 
+
+
+SCHEDULE 2
+FEES AND EXPENSES
+In consideration for the Services provided by CT as detailed in Schedule 1:
+ 
+ 	•	 	PRIMA agrees to pay CT A$77,985 per calendar month (plus GST if required), invoiced monthly in arrears.
+ 
+ 	•	 	PRIMA shall reimburse CT for out-of-pocket, third party expenses for consumables, external laboratory testing, capital equipment and validation and maintenance, at cost plus $25 handling fee. Where the unit cost is in excess of $1800, CT will review the $25 handling charge and advise PRIMA of a capped fee which will be related to CT’s effort in managing and processing the purchase. For the avoidance of doubt, any supplies or equipment reimbursed by PRIMA shall be PRIMA’s property and used exclusively for PRIMA Services.
+ 
+ 	•	 	PRIMA shall reimburse CT at cost, without mark-up, for other out-of-pocket, third party expenses, including but not limited to approved travel and accommodation, regulatory fees, and customs taxes.
+For agreed additional Services, unless otherwise agreed to by the Authorized Representatives, PRIMA shall pay CT the following daily rates (plus GST if required):
+ 
+ 	•	 	Senior Clinicians $2400 per day
+ 
+ 	•	 	Senior Managers $2000 per day
+ 
+ 	•	 	Senior Scientists $1800 per day
+ 
+ 	•	 	Scientists and Senior Technicians $1400 per day
+ 
+ 	•	 	Laboratory Technicians $800 per day
+Service Fees assume an 8.30am to 5.00pm work day with occasional after-hours or overtime work. If continuous or exceptional after-hours work is required, PRIMA agrees to pay for extra use of Facilities, including the minimum of two staff required for exceptional after-hours work, at a rate of $250/hour per person. Where time in lieu or rostered days off can be utilised, no additional charges will apply
+PRIMA agrees to pay the following amounts for other potential additional Services that may be requested by PRIMA:
+ 
+ 	•	 	Leukapheresis at Peter MacCallum Cancer Center – $120 per collection, including disposable apheresis kit set
+ 
+ 	•	 	GramStain/BacT alert – as per CMBS rebate, plus a $34.23 loading for trial compliance
+ 
+ 	•	 	FACS Sorting – at a rate of $500/hr
+Service fees are fixed for 12 calendar months from the commencement date. The Authorized Representatives of the Parties agree, in good faith, to review and negotiate any required increases in Service fees after the first year, and once every year thereafter.
+ 
+If the Authorised Representatives are unable to agree on a revised fee within 3 months of commencing the annual review then it will be referred for dispute resolution in accordance with Clause 22. If the parties are unable to agree on the revised Services Fee following the completion of dispute resolution, the issue will be referred to an expert nominated by the President of the Institute of Chartered Accountants for binding determination.
+ 
+
+SCHEDULE 3
+PRIMA’S QUALITY POLICY
+Prima BioMed, Ltd. (“Prima”) is a company of integrity and high standards, listed on the Australian Stock Exchange for public investment. The Board of Directors of Prima is responsible for the corporate governance of the Company. The Board guides and monitors the business and affairs of the Company on behalf of the shareholders by whom they are elected and to whom they are accountable. In setting its standards the Company has considered the ASX Corporate Governance Council’s Principles of Good Corporate Governance and Best Practice.
+Prima’s mission is to be part of the cutting-edge for the right against cancer by transforming the promise of science and biotechnology into therapies that have the power to restore health or even save lives of cancer patients.
+All of Prima’s actions and business activities are guided by the principles promulgated by the Declaration of Helsinki, as amended. Prima commits to put the well-being and rights of patients before any other consideration. Prima complies with local, national and international rules and regulations and endeavours to meet and surpass all requirements and expectations related to medical research.
+In support of Prima’s mission, Prima guarantees the highest quality and safety standards in the manufacture of its products. The Company has established Codes of Conduct to guide all employees in respect of ethical behaviour expected by Prima. These Codes of Conduct cover conflicts of interest, confidentiality, fair dealing, protection of assets, compliance with laws and regulations; whistle blowing, security trading and commitments to patients and other stakeholders.
+Staff are made aware of this quality policy and each staff member is responsible for implementing this policy in every area of his or her work.
+Equally, all service providers engaged by Prima are expected to adhere to similar ethical and quality standards.

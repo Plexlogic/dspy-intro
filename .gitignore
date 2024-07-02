@@ -4,3 +4,5 @@ openai_usage.log
 .venv
 .env
 .idea
+output
+__pycache__

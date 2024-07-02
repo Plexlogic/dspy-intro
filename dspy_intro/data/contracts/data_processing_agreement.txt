@@ -1,0 +1,217 @@
+DATA PROCESSING AGREEMENT
+THIS DATA PROCESSING AGREEMENT (“Data Processing Agreement”) is made and entered into on 23 July
+2020 (“Effective Date”) by and between
+1. Mateon Therapeutics INC., a company organized and existing under the laws of Delaware and having its
+registered office at 29397 Agoura Rd., Suite 107, Agoura Hills, CA 91301, USA (“Controller”); and
+2. Impatients N.V., acting under the name myTomorrows, a company organized and existing under the laws
+of the Netherlands and having its registered office at Anthony Fokkerweg 61, 1059 CP Amsterdam, the
+Netherlands (“Processor”);
+Each of the above parties are individually referred to as “Party” and jointly as “Parties”.
+RECITALS
+A. WHEREAS, Controller and Processor entered into a service agreement as of 23 July 2020 (“Agreement”)
+pursuant to which Processor agreed to provide certain services to Controller as specified in the Agreement,
+including any statements of work, and Privacy Annex (Annex 1) to this Data Processing Agreement
+(“Services”);
+B. WHEREAS, Controller engages Processor to on behalf of Controller process Personal Data defined in the
+Privacy Annex (Annex 1) and any other personal data processed by Processor on behalf of Controller
+pursuant to the Agreement (“Personal Data”);
+C. WHEREAS, this Data Processing Agreement includes the terms and conditions governing the processing of
+Personal Data by Processor on behalf of Controller with the aim to ensure the Parties comply with Applicable
+Laws as defined below.
+NOW, THEREFORE, the Parties agree as follows:
+1. DEFINITIONS AND INTERPRETATION
+1.1. For the purposes of this Data Processing Agreement, the following terms shall have the following definitions and
+interpretation:
+“Applicable Laws” means any EU, EU Member State, national, regional and local laws, rules, regulations,
+declarations, requirements, guidelines approved by supervisory or other competent bodies and polices that apply to or
+govern the processing of Personal Data as set out in the Privacy Annex (Annex 1), including the General Data
+Protection Regulation (EU) 2016/679 (“GDPR”) and relevant national laws, as amended from time to time.
+“EEA” means European Economic Area.
+“Personal Data Breach” means a breach of security leading to the accidental or unlawful destruction, loss, alteration,
+unauthorised disclosure of, or access to, Personal Data transmitted, stored or otherwise processed.
+“Subprocessor” means any data processor (including any third party and any Processor Affiliate) engaged by Processor
+to process personal data on behalf of Controller.
+Page 1 of 7
+“Supervisory Authority” means (a) an independent public authority which is established by a Member State pursuant
+to Article 51 GDPR; and (b) any similar regulatory authority responsible for the enforcement of Applicable Laws.
+1.2 Other terms like “process/processing”, “data subject”, “(data) processor”, “(data) controller”, “data protection
+impact assessment”, etc. shall have the meaning ascribed to them in the Applicable Laws with regard to the Personal
+Data.
+2. PROCESSING OF PERSONAL DATA
+2.1. Processor shall provide the Services and shall process the Personal Data within the context of the Agreement on
+behalf of Controller and for the specific purposes as set out in the Privacy Annex (Annex 1) to this Data Processing
+Agreement.
+2.2. Processor represents and warrants that it shall not process, transfer, modify, amend or alter the Personal Data or
+disclose or permit the disclosure of the Personal Data to any third party other than in accordance with the Controller’s
+documented instructions (in the Principal Agreement or otherwise), unless processing is required by EU or Member
+State law to which Processor is subject, in which case Processor shall to the extent permitted by such law inform
+Controller of that legal requirement before processing that Personal Data. Processor shall not process Personal Data
+for own purposes, except where it is regarded as data controller for the processing of Personal Data.
+2.3. Controller represents and warrants that it is fully authorized and entitled to provide the Personal Data to Processor
+for processing and let Processor process the Personal Data for the purposes of the Agreement and for the specific
+purposes as set out in the Privacy Annex (Annex 1) and in execution of the Services.
+3. DATA SUBJECT RIGHTS
+3.1. Processor shall promptly, and in any case within five (5) working days, notify Controller if it receives a request
+from a data subject under any Applicable Laws in respect of Personal Data, including requests by a data subject to
+exercise rights in Chapter III of GDPR, and shall provide full details of that request.
+3.2. Processor shall provide all reasonable assistance to Controller to enable Controller to comply with any exercise
+of rights by a data subject under any Applicable Laws in respect of Personal Data and comply with any assessment,
+enquiry, notice or investigation under Applicable Laws in respect of Personal Data or this Data Processing Agreement.
+4. SECURITY OF PERSONAL DATA
+4.1. Without prejudice to any other security requirements agreed upon between the Parties, Processor shall protect the
+processing of Personal Data and ensure a level of security of the Personal Data appropriate to the risk in accordance
+with Article 32 GDPR, among others by taking appropriate technical and organisational measures, that in view of the
+current state of the art and the related costs are in line with the nature of the Personal Data to be processed, the scope,
+context and purposes of the processing of the Personal Data, as well as the risk varying according to likelihood and
+severity for the rights and freedoms of data subjects. These measures encompass, where appropriate:
+4.1.1. the ability to ensure the ongoing confidentiality, integrity, availability and resilience of processing systems and
+services;
+4.1.2. the ability to restore the availability and access to Personal Data in a timely manner in the event of a physical
+or technical incident;
+Page 2 of 7
+4.1.3. a process for regularly testing, assessing and evaluating the effectiveness of technical and organisational
+measures for ensuring the security of processing.
+4.2. The Parties acknowledge that security requirements are constantly changing, and that effective security requires
+frequent evaluation and regular improvements of outdated security measures. Processor shall therefore continuously
+evaluate the technical and organisational measures as described herein and shall tighten, supplement and improve
+these security measures to maintain compliance with Applicable Laws.
+5. PERSONAL DATA BREACHES
+5.1. Processor shall notify Controller without unreasonable delay upon becoming aware of a Personal Data Breach in
+connection with the processing of Personal Data and shall provide Controller with information to allow Controller to
+meet any obligations to report a Personal Data Breach under the Applicable Laws. Such notification shall as a
+minimum:
+5.1.1. describe the nature of the Personal Data Breach, the data subjects concerned, and the Personal Data records
+concerned;
+5.1.2. communicate the name and contact details of Processor’s data protection officer or other relevant contact form
+whom more information may be obtained;
+5.1.3. describe the likely consequences of the Personal Data Breach; and
+5.1.4. describe the measures taken or proposed to address the Personal Data Breach.
+5.2. Processor shall provide all reasonable assistance and shall take all reasonably steps to assist in the investigation,
+mitigation and remediation of each Personal Data Breach to enable Controller to (i) perform a thorough investigation
+into the Personal Data Breach, (ii) formulate a correct response; and (iii) to take further steps in respect of the Personal
+Data Breach in order to meet any requirements under the Applicable Laws.
+6. SUBPROCESSORS
+6.1. From the Effective Date of this Data Processing Agreement, Processor may use the Subprocessors set out in the
+Privacy Annex (Annex 1). Processor may use additional Subprocessors to process Personal Data only with the prior
+written approval of Controller, which approval shall not be unreasonably withheld.
+7. INTERNATIONAL TRANSFERS
+7.1. If and insofar the Personal Data is processed outside of the EEA, the Parties shall only process the Personal Data
+when there is an adequate level of protection in place.
+8. CONFIDENTIALITY
+8.1. In accordance with the confidentiality provisions of the Agreement, Processor shall keep Personal Data
+confidential. For the avoidance of doubt, all Personal Data shall be considered as Confidential Information in the
+Agreement.
+9. DATA PROTECTION IMPACT ASSESSMENT AND PRIOR CONSULTATION
+9.1. Processor shall provide reasonable assistance to Controller with any data protection impact assessments which
+are required under Article 35 GDPR and with any prior consultations to any Supervisory Authority of Controller or
+any of its affiliates which are required under Article 36 GDPR, in each case in relation to processing of Personal Data
+by Processor on behalf of Controller and taking into account the nature of the processing and information available to
+Processor.
+Page 3 of 7
+10. PROVISION OF INFORMATION AND AUDITS
+10.1. Processor shall make available to Controller on request any relevant information that is reasonably necessary to
+demonstrate compliance with this Data Processing Agreement.
+10.2. Processor shall allow for and reasonably contribute to audits of the processing of Personal Data and the premises
+where such processing takes place. Processor shall provide all reasonable cooperation to Controller in respect of any
+such audit and shall at the request of Controller, provide Controller with evidence of compliance with its obligations
+under this Data Processing Agreement. Processor shall immediately inform Controller if, in its opinion, an instruction
+pursuant to this Clause 10 infringes any Applicable Laws.
+11. INDEMNITY AND LIABILITY
+11.1. Notwithstanding any provisions of the Agreement or this Data Processing Agreement to the contrary, each Party
+shall indemnify, defend and hold harmless the other Party from any claims (including third party claims), suits,
+demands, judgements, actions, liabilities, expenses (including reasonable attorney’s fees) and damages of any kind
+relating to its breach of this Data Processing Agreement, and/or its negligence or wilful misconduct.
+11.2. Notwithstanding any provisions of the Agreement or this Data Processing Agreement to the contrary, the
+limitation of liability set forth in the Agreement shall also apply to this Data Processing Agreement.
+12. DURATION AND TERMINATION
+12.1. This Data Processing Agreement shall remain in full force and effect for the duration that Processor processes
+Personal Data on behalf of Controller under the Agreement.
+12.2. Any obligation imposed on either Party under this Data Processing Agreement, or any provision that by their
+nature is intended to survive this Data Processing Agreement shall survive any termination or expiration of this Data
+Processing Agreement.
+13. STORAGE, RETURN AND DESTRUCTION
+13.1. Processor shall store the Personal Data no longer than strictly necessary (i) for the provision of Services; (ii) if
+a storage period is agreed between the Parties, no longer than this storage period; or (iii) to comply with statutory
+obligations.
+13.2. Processor shall promptly, of the earlier of: (i) no longer processing of Personal Data; or (ii) termination of the
+Agreement, at the choice of Controller either: (a) return a complete copy of all Personal Data to Controller and securely
+wipe all other copies of Personal Data processed by Processor or any Subprocessor; or (b) securely wipe all copies of
+Personal Data processed by Processor or any Subprocessor; and in each case provide written confirmation to
+Controller that it has complied with this Clause 13, except insofar Processor is required by Applicable Laws to retain
+such Personal Data.
+14. MISCELLANEOUS
+14.1. Modifications or amendments of this Data Processing Agreement shall only be effective if made in writing and
+signed by an authorized representative of both Parties.
+14.2. If any provision of this Data Processing Agreement is invalid or unenforceable, then the remainder shall remain
+valid and in force.
+14.3. In the event of inconsistencies between the provisions of this Data Processing Agreement and the Agreement
+and/or any Scope of Work, the provisions of this Data Processing Agreement shall prevail with regard to the Parties’
+data protection obligations.
+Page 4 of 7
+14.4. This Data Processing Agreement shall be governed by and in accordance with the laws of the Netherlands,
+without giving effect to any choice of law principles that would require the application of the laws of a different
+jurisdiction. Any disputes arising out or in connection with this Data Processing Agreement shall be brought
+exclusively before the competent court of Amsterdam, the Netherlands.
+IN WITNESS WHEREOF, the Parties hereto have executed this Data Processing Agreement as of the Effective
+Date by their duly authorized signatories.
+Impatients N.V. Mateon Therapeutics INC.
+Signature:/s/ Vuong Trieu Signature:/s/ Peter Erik de Ridders
+By: Vuong Trieu By: Pieter Erik de Ridders
+Title: CEO Title: General Counsel
+Date: 24 July 2020 Date: 23 July 2020
+Page 5 of 7
+PRIVACY ANNEX (ANNEX 1)
+1. SUBJECT MATTER OF THE PROCESSING OF PERSONAL DATA
+Processor and Controller have entered into the Agreement pursuant to which Processor agreed to provide certain
+Services to Controller, wherein Processor, as a service provider to Controller, shall conduct Expanded Access Program
+management and RWD collection management for (potential) patients on behalf of Controller. In providing these
+Services, Processor shall process Personal Data of these (potential) patients. This Annex 1 states which Personal Data
+will be processed by Processor and for what purposes.
+2. NATURE AND PURPOSE OF THE PROCESSING OF PERSONAL DATA
+Controller shall obtain the necessary consent of the (potential) patients participating in Expanded Access Programs,
+to be processed by Processor for the following purposes:
+● Expanded Access Program management on Mateon’s behalf for the Services as specifically described in the
+Agreement (and separate Statements of Work).
+● RWD collection management on Mateon’s behalf for the Services as specifically described in the Agreement
+(and separate Statements of Work).
+3. CATEGORIES OF PERSONAL DATA TO BE PROCESSED
+Processor shall process the following (categories of) Personal Data in the performance of the Services to Controller
+under the Agreement:
+● Personal identification data including first name, last name, initials, date of birth, sex/gender, email address,
+phone number, city of residence, country of residence.
+● Technical/device data including browser, IP-address, usernames.
+● Personal medical data including relevant health care information (e.g. weight, heart rate, disability), relevant
+demographics, relevant disease history, dosing, safety data, effectiveness data, ethnic origin (if necessary).
+4. CATEGORIES OF DATA SUBJECTS TO WHOM THE PERSONAL DATA RELATES
+Processor shall process the Personal Data of the following (categories of) data subjects in the execution of the Services
+to Controller under the Agreement:
+● Patients participating in an Expanded Access Program
+● Patients participating in RWD collection.
+5. LIST OF SUBPROCESSORS
+Processor uses the following Subprocessors in the execution of the Services to Controller under the Agreement:
+Name Description Location
+Microsoft Azure /
+Dynamics 365
+Provides applications and servers that myTomorrows uses for general
+day-to-day business and performance of its day-to-day services to clients
+(e.g. emails and storage).
+EU
+Castor EDC Provides an application and servers for the collection and management of
+data that is used by myTomorrows in the performance of the Services,
+including RWD collection.
+EU
+Page 6 of 7
+6. DATA PROTECTION CONTACTS
+All notices, requests, demands and approvals under this Data Processing Agreement and with regard to any privacy
+matters shall be sent to the following contacts:
+myTomorrows
+Name: Pieter Erik de Ridders
+Function: General Counsel and Data Protection Officer
+Email: pietererik.deridders@mytomorrows.com
+Phone: +31 (0)88 525 3 888
+Mateon Therapeutics
+Name:
+Function:
+Email:
+Phone:
+Page 7 of 7
